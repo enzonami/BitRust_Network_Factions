@@ -1,0 +1,98 @@
+{
+	{
+		id = dianchia.defensetower,
+		name = Defense Tower,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = koltuz.foodzombie,
+		name = Food Zombie,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = goliath.hardcorelite,
+		name = Hardcore Lite,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = aizsave.modsettingslib,
+		name = Mod Settings Lib,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = eryr.necesse.expanded,
+		name = Necesse Expanded,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = mrfireshard.optimizesse,
+		name = Optimizesse,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = oblio.whatisthat,
+		name = What is that,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = aphoreateam.aphoreamod,
+		name = Aphorea Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.durability,
+		name = Durability,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = dianchia.increasedstacksize,
+		name = Increased Stack Size,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = daria40k.mightybannermod,
+		name = Mighty Banner Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.moveit,
+		name = Move It!,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = devs.scorchedbiome,
+		name = Scorched Biome,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = endzio.soulchasm,
+		name = Soul Chasm,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.wired,
+		name = Wired,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = zoomout,
+		name = Zoom Out,
+		type = FILE_MOD,
+		enabled = true
+	}
+}
