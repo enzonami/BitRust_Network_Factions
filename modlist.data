@@ -1,7 +1,31 @@
 {
 	{
+		id = bolo.bettertorch,
+		name = A Better Torch,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = aphoreateam.aphoreamod,
+		name = Aphorea Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = pt.kewaii.deathgrave,
+		name = DeathGrave,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
 		id = dianchia.defensetower,
 		name = Defense Tower,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.durability,
+		name = Durability,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -14,6 +38,18 @@
 	{
 		id = goliath.hardcorelite,
 		name = Hardcore Lite,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = dianchia.increasedstacksize,
+		name = Increased Stack Size,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = daria40k.mightybannermod,
+		name = Mighty Banner Mod,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -36,38 +72,8 @@
 		enabled = true
 	},
 	{
-		id = oblio.whatisthat,
-		name = What is that,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = aphoreateam.aphoreamod,
-		name = Aphorea Mod,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = jakapoa.durability,
-		name = Durability,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = dianchia.increasedstacksize,
-		name = Increased Stack Size,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = daria40k.mightybannermod,
-		name = Mighty Banner Mod,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = jakapoa.moveit,
-		name = Move It!,
+		id = br.com.aeyos,
+		name = Player Health Bar,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -80,6 +86,12 @@
 	{
 		id = endzio.soulchasm,
 		name = Soul Chasm,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = oblio.whatisthat,
+		name = What is that,
 		type = FILE_MOD,
 		enabled = true
 	},
