@@ -42,12 +42,6 @@
 		enabled = true
 	},
 	{
-		id = eryr.necesse.expanded,
-		name = Necesse Expanded,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
 		id = zoomout,
 		name = Zoom Out,
 		type = FILE_MOD,
@@ -62,12 +56,6 @@
 	{
 		id = bolo.bettertorch,
 		name = A Better Torch,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = jakapoa.durability,
-		name = Durability,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -92,6 +80,24 @@
 	{
 		id = dianchia.defensetower,
 		name = Defense Tower,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = shuazi.tpa.commands,
+		name = TPA Commands,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = eryr.necesse.expanded,
+		name = Necesse Expanded,
+		type = DEV_MOD,
+		enabled = true
+	},
+	{
+		id = br.com.aeyos.wims,
+		name = W.I.M.S. Mod,
 		type = FILE_MOD,
 		enabled = true
 	}
