@@ -1,55 +1,7 @@
 {
 	{
-		id = mrfireshard.optimizesse,
-		name = Optimizesse,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = oblio.whatisthat,
-		name = What is that,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = daria40k.mightybannermod,
-		name = Mighty Banner Mod,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = jakapoa.wired,
-		name = Wired,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = br.com.aeyos,
-		name = Player Health Bar,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = aphoreateam.aphoreamod,
-		name = Aphorea Mod,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = aizsave.modsettingslib,
-		name = Mod Settings Lib,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = zoomout,
-		name = Zoom Out,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = endzio.soulchasm,
-		name = Soul Chasm,
+		id = xtended.tpa.commands,
+		name = EzWarp,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -60,8 +12,8 @@
 		enabled = true
 	},
 	{
-		id = goliath.hardcorelite,
-		name = Hardcore Lite,
+		id = aphoreateam.aphoreamod,
+		name = Aphorea Mod,
 		type = FILE_MOD,
 		enabled = true
 	},
@@ -72,32 +24,152 @@
 		enabled = true
 	},
 	{
-		id = dianchia.increasedstacksize,
-		name = Increased Stack Size,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
 		id = dianchia.defensetower,
 		name = Defense Tower,
 		type = FILE_MOD,
 		enabled = true
 	},
 	{
-		id = shuazi.tpa.commands,
-		name = TPA Commands,
+		id = goliath.hardcorelite,
+		name = Hardcore Lite,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = dianchia.increasedstacksize,
+		name = Increased Stack Size,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = daria40k.mightybannermod,
+		name = Mighty Banner Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = aizsave.modsettingslib,
+		name = Mod Settings Lib,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = koltuz.moremounts,
+		name = More Mounts,
 		type = FILE_MOD,
 		enabled = true
 	},
 	{
 		id = eryr.necesse.expanded,
 		name = Necesse Expanded,
-		type = DEV_MOD,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = mrfireshard.optimizesse,
+		name = Optimizesse,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = br.com.aeyos,
+		name = Player Health Bar,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = endzio.soulchasm,
+		name = Soul Chasm,
+		type = FILE_MOD,
 		enabled = true
 	},
 	{
 		id = br.com.aeyos.wims,
 		name = W.I.M.S. Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = oblio.whatisthat,
+		name = What is that,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.wired,
+		name = Wired,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = zoomout,
+		name = Zoom Out,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = hill.autominer,
+		name = Auto Miner,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = aizsave.autonecesse,
+		name = AutoNecesse,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = maniacmagee.brewing,
+		name = Brewing Mod,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = lepax.cordsse,
+		name = Cordsse,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = oblio.endlesspotions,
+		name = Endless buffs,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = kamikaze.lavabucket,
+		name = Infinite Lava Bucket,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = kent.instahouse,
+		name = InstaHouse,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = moyasi.texturepack,
+		name = Moyasi Character Retexture,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = qi.recruitmentexpedition,
+		name = Recruitment Expedition,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = jakapoa.bigmagnet,
+		name = Super Magnet,
+		type = FILE_MOD,
+		enabled = true
+	},
+	{
+		id = cyboogiest.musicreplace,
+		name = Terraria Music Replace,
 		type = FILE_MOD,
 		enabled = true
 	}
