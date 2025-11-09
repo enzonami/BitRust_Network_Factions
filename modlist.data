@@ -1,4 +1,9 @@
-{
+{	{
+		id = aizsave.modsettingslib,
+		name = Mod Settings Lib,
+		type = FILE_MOD,
+		enabled = true
+	},
 	{
 		id = xtended.tpa.commands,
 		name = EzWarp,
@@ -44,12 +49,6 @@
 	{
 		id = daria40k.mightybannermod,
 		name = Mighty Banner Mod,
-		type = FILE_MOD,
-		enabled = true
-	},
-	{
-		id = aizsave.modsettingslib,
-		name = Mod Settings Lib,
 		type = FILE_MOD,
 		enabled = true
 	},
